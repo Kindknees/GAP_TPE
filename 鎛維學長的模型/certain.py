@@ -1,4 +1,4 @@
-# Bor-wei's model to solve TPE 0623 ver81
+# 鎛維學長的確定性模型(論文3.2小節)
 import gurobipy as gp
 from gurobipy import GRB
 
