@@ -1,4 +1,4 @@
-flight_index,flight_number,original_gate_name,original_gate_index,start_time_str,end_time_str,updated_start_str,updated_end_str,start_time_min,end_time_min,updated_start_min,updated_end_min,service_time_min
+flight_id,flight_number,original_gate_name,original_gate_index,start_time_str,end_time_str,updated_start_str,updated_end_str,start_time_min,end_time_min,updated_start_min,updated_end_min,service_time_min
 1,JJA6154,A1,1,,250,,242,110,170,102,162,60
 2,AIQ242/242,A1,1,521,705,526,651,321,425,326,411,104
 3,CAL903,A1,1,,810,,814,430,490,434,494,60

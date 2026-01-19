@@ -12,7 +12,7 @@ def process_flight_data(input_filename, output_filename):
         print(f"錯誤：找不到檔案 '{input_filename}'")
         return
 
-    df.insert(0, 'flight_index', range(1, len(df) + 1))
+    df.insert(0, 'flight_id', range(1, len(df) + 1))
 
     def time_str_to_minutes(time_str):
         if pd.isna(time_str) or str(time_str).strip() == '':
